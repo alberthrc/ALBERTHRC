@@ -10,6 +10,10 @@
 <p> 
 
 I am a web developer, I work as a Frontend. I like to creating amazing pages. I am constantly creating, learning, reading and exercising, I code in Javascript, HTML, Css and some PHP, with which I create custom themes for clients using the WordPress web tool.
+  
+-------
 
-
-
+**🎯 In the future, I plan to...**
+* Add React Native and FLutter to my developer's tools
+* Learn advanced JS testing
+* Dive into the database world with MongoDB
