@@ -9,7 +9,7 @@
   <a href="#"> Portfolio </a>
 <p> 
 
-I am a web developer, I work as a Frontend. I like to creating amazing pages. I am constantly creating, learning, reading and exercising, I code in Javascript, HTML, Css and some PHP, with which I create custom themes for clients using the WordPress web tool.
+I am a web developer, I work as a Frontend. I love the outcome of the websites that i´ve created. I am constantly creating, learning, reading and exercising, I code in Javascript, HTML, Css and some PHP, with which I create custom themes for clients using the WordPress web tool.
   
 -------
 
