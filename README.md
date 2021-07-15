@@ -6,7 +6,7 @@
   -
   <a href="https://twitter.com/AlberthRuz1"> Twitter </a>
   -
-  <a href="#"> Portfolio </a>
+  <a href="##"> Portfolio </a>
 <p> 
 
 I am a web developer, I work as a Frontend. I love the outcome of the websites that i´ve created. I am constantly creating, learning, reading and exercising, I code in Javascript, HTML, Css and some PHP, with which I create custom themes for clients using the WordPress web tool.
