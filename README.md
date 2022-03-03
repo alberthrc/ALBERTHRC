@@ -19,3 +19,4 @@
 **🎯 In the future, I plan to...**
 * Learn advanced JS testing
 * Dive into the world of databases with MongoDB and SQL
+* Keep improving my English.
