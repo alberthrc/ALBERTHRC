@@ -9,7 +9,10 @@
   <a href="https://alberthrc.github.io/ALBERTHRC/"> Portfolio </a>
 <p> 
 
-I am a web developer, I work as a Frontend. I love the outcome of the websites that i´ve created. I am constantly creating, learning, reading and exercising, I code in Javascript, HTML, Css and some PHP, with which I create custom themes for clients using the WordPress web tool.
+<p> Full- Stack Developer with prove experience at Angular 11+ and PHP. <p> 
+
+<p>My experience in web development  with javascript and PHP is  +3 years and with Angular is 8 months, during wich time I created landings pages, Blogs, SPA and components with angular.<p> 
+
   
 -------
 
