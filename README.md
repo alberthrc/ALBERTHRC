@@ -17,6 +17,5 @@
 -------
 
 **🎯 In the future, I plan to...**
-* Add React Native and FLutter to my developer's tools
 * Learn advanced JS testing
-* Dive into the database world with MongoDB
+* Dive into the world of databases with MongoDB and SQL
