@@ -11,7 +11,7 @@
 
 <p> Full- Stack Developer with prove experience at Angular 11+ and PHP. <p> 
 
-<p>My experience in web development  with javascript and PHP is  +3 years and with Angular is 8 months, during wich time I created landings pages, Blogs, SPA and components with angular.<p> 
+<p>My experience in web development  with javascript and PHP is  +3 years and with Angular is 2 years, during wich time I created landings pages, Blogs, SPA and components with angular.<p> 
 
   
 -------
