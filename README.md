@@ -1,4 +1,4 @@
-💫 <h1>About Me:</h1>
+<h1>💫 About Me:</h1>
 Full-Stack developer with more than 5 years of experience developing web applications using Javascript, Angular, Vue, PHP, Node.js and Wordpress along with othe
 
 
